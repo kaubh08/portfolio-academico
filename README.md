@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Este repositório foi criado com o objetivo de armazenar projetos acadêmicos e pessoais de forma organizada e versionada, utilizando Git e GitHub.
+Este repositório foi criado para armazenar projetos acadêmicos e pessoais de forma organizada e versionada, utilizando Git e GitHub.
 
-A proposta é compor um perfil profissional mais robusto, aplicando boas práticas de versionamento, documentação, colaboração e compartilhamento de código.
+A proposta é compor um perfil profissional, aplicando práticas de versionamento, documentação, colaboração e compartilhamento de código.
 
 ## Estrutura do Repositório
 
@@ -26,8 +26,8 @@ projetos-academicos/pagina-web-v1/
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git
 - GitHub
 
